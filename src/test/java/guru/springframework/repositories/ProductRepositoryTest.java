@@ -66,6 +66,6 @@ public class ProductRepositoryTest {
             count++;
         }
 
-        assertEquals(count, 1);
+        assertEquals(count, 10);
     }
 }
